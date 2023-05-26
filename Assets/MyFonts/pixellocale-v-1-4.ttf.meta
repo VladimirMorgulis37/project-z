@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 285aeb76a89a0a643adfa4a353c9e4e4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PixelLocale v.1.4
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8fde0c65de155194abe7e30e528c2ed6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
